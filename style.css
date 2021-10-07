@@ -1,0 +1,84 @@
+body{
+  background-image:url(background.jpg);
+  width: 100px;
+  height: 100px;
+  background-size:cover;
+}
+
+.container{
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  left:200px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+.logo{
+  width: 200px;
+position: relative;
+left: 380px;
+margin-top: 50px;
+}
+
+.caption{
+font-size: 30px;
+color: #00FF00;
+text-align: center;
+}
+
+.bottoni{
+  width:900px;
+  background-color: #00FF00;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  left: 35px;
+
+}
+
+.box{
+  display: inline-block;
+}
+
+.monopattino{
+  font-size: 20px;
+  color: white;
+  display: inline-block;
+  margin-top: 30px;
+}
+.via{
+  font-size: 15px;
+  color: white;
+  margin-top: 10px;
+}
+
+.batteria{
+  font-size: 15px;
+  color: white;
+}
+
+.orange{
+  width: 200px;
+background-color: orange;
+border-radius: 5px;
+}
+
+.verde{
+  width: 400px;
+background-color: green;
+border-radius: 5px;
+}
+
+.rosso{
+  width: 130px;
+background-color: red;
+border-radius: 5px;
+}
+
+main{
+  position: relative;
+  left: 35px;
+}
